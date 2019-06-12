@@ -4,4 +4,4 @@ function greeter(person: String) {
 
 let user = "Adam";
 
-document.body.innerHTML = greeter(user);
+console.log(greeter(user));

@@ -5,4 +5,4 @@ function greeter(person: string) {
 
 let user = [0, 1, 2];
 
-document.body.innerHTML = greeter(user);
+console.log(greeter(user));
