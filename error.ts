@@ -1,4 +1,4 @@
-//When compiled will run error
+//When compiled will run error, but js file is still operable
 function greeter(person: string) {
     return "Hello, " + person;
 }
